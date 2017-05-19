@@ -1,1 +1,11 @@
-{}
+{
+	"email": "foo@bar.com",
+	"message": "\t\t",
+	"last_name": "Verou",
+	"hobby": [
+		"Eating",
+		"Sleeping",
+		"Reading"
+	],
+	"strength": 53
+}
