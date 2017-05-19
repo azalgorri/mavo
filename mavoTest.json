@@ -7,5 +7,13 @@
 		"Sleeping",
 		"Reading"
 	],
-	"strength": 92
+	"strength": 20,
+	"obj.email": "nananana@bar.com",
+	"obj.message": "\t\t",
+	"obj.last_name": "Mathius",
+	"obj.hobbies.hobby": [
+		"Eating",
+		"Reading",
+		"Climbing"
+	]
 }
